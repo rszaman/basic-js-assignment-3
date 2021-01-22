@@ -1,6 +1,8 @@
+// - -----follow below my github repo link ----- -
+// https://github.com/rszaman/basic-js-assignment-3
 
 
-//Project-01- ------------kilometerToMeter------------------
+// Project-01- ------------kilometerToMeter------------------
 
 function kilometerToMeter(kilometer){
     if (kilometer < 0) {
@@ -14,7 +16,7 @@ function kilometerToMeter(kilometer){
 
 
 
-//Project-02- ------------budgetCalculator------------------
+// Project-02- ------------budgetCalculator------------------
 
 function budgetCalculator(watch, mobile, laptop){
     var watchPrice = 50;
@@ -32,7 +34,7 @@ function budgetCalculator(watch, mobile, laptop){
 
 
 
-//Project-03- -----------------hotelCost---------------------
+// Project-03- -----------------hotelCost---------------------
 
 function hotelCost(day) {
     
@@ -71,7 +73,7 @@ function hotelCost(day) {
 
 
 
-//Project-04- ----------------megaFriend--------------------
+// Project-04- ----------------megaFriend--------------------
 
 function megaFriend(friends){
     var largestName="";
